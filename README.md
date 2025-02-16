@@ -9,7 +9,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVzYWpmb3c1dTU2amhpemtxajB3a29rcXI4NnQzbmJ4cHZ5dHFreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif" width="45px" height="45px" />
 </h1>
 
-<p align="left">🚀 <b>Aspiring DevOps and Cloud Engineer</b> | Passionate about automation, cloud, and scalable infrastructures<br><br>📚 Learning : multi-cloud and Kuberneties<br><br>🎯 Certification: plan to AWS SAA-C03 in (2025)<br><br>💡 Interests: Tech trends, problem-solving & AI<br><br>🎸 Hobbies: Guitar, reading tech articles & exploring AI<br><br>🌍 Believes in continuous learning—every challenge is a new opportunity to grow!<br><br>🌟 I am constantly working to improve myself and my skills, always pushing to dream, dare and do.<br><br>🛡️ Please feel free to browse through my repositories and leave a STAR⭐️ if you like my work.</p>
+<p align="left">🚀 <b>Aspiring DevOps and Cloud Engineer</b> | Passionate about automation, cloud, and scalable infrastructures<br><br>📚 Learning : multi-cloud and Kuberneties<br><br>🎯 Certification: plan to AWS SAA-C03 in (2025)<br><br>💡 Interests: Tech trends, problem-solving & AI<br><br>🎸 Hobbies: Guitar, reading tech articles & exploring AI<br><br>🌍 Believes in continuous learning—every challenge is a new opportunity to grow!<br><br>🌟 I am constantly working to improve myself and my skills, always pushing to dream, dare and do.<br><br></p>
 
 
 ###
