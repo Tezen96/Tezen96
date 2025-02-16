@@ -9,7 +9,8 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVzYWpmb3c1dTU2amhpemtxajB3a29rcXI4NnQzbmJ4cHZ5dHFreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6A3wecy5U7aI9lNJVH/giphy.gif" width="45px" height="45px" />
 </h1>
 
-<p align="left">🚀 DevOps & Cloud Engineer | Passionate about automation, cloud, and scalable infrastructures<br><br>📚 Learning : multi-cloud and Kuberneties<br><br>🎯 Certification: plan to AWS SAA-C03 in (2025)<br><br>💡 Interests: Tech trends, problem-solving & AI<br><br>🎸 Hobbies: Guitar, reading tech articles & exploring AI<br><br>🌍 Believes in continuous learning—every challenge is a new opportunity to grow!<br><br>🌟 I am constantly working to improve myself and my skills, always pushing to dream, dare and do.<br><br>🛡️ Please feel free to browse through my repositories and leave a STAR⭐️ if you like my work.</p>
+<p align="left">🚀 <b>Aspiring DevOps and Cloud Engineer</b> | Passionate about automation, cloud, and scalable infrastructures<br><br>📚 Learning : multi-cloud and Kuberneties<br><br>🎯 Certification: plan to AWS SAA-C03 in (2025)<br><br>💡 Interests: Tech trends, problem-solving & AI<br><br>🎸 Hobbies: Guitar, reading tech articles & exploring AI<br><br>🌍 Believes in continuous learning—every challenge is a new opportunity to grow!<br><br>🌟 I am constantly working to improve myself and my skills, always pushing to dream, dare and do.<br><br>🛡️ Please feel free to browse through my repositories and leave a STAR⭐️ if you like my work.</p>
+
 
 ###
 
@@ -102,27 +103,28 @@
 &nbsp;
 
 ### My motivational Quote : ✍️
-Prepare yourself for competitive race, 🐎
-<br>
-Focus on your study, 👨‍🎓
-<br>
-While other are sleeping, 🛌
-<br>
-Busy in your work, 🧑‍💻
-<br>
-While others are loafing, 😴
-<br>
-Compose yourself, 🖋️
-<br>
-While others are playing, 🤾‍♂️
-<br>
-Visualize Your Dream, ✨
-<br />
-While others are wishing. 🤎🚀
+**Sharpen your skills, ⚔️**  
+*While others waste time, ⏳*  
+
+**Stay consistent, 📖**  
+*While others make excuses, ❌*  
+
+**Work on your goals, 🏆**  
+*While others procrastinate, ⏭️*  
+
+**Push your limits, 🏋️‍♂️**  
+*While others stay in comfort, 🛋️*  
+
+**Create opportunities, 🔥**  
+*While others wait for luck, 🍀*  
+
+**Achieve your dreams, 🚀**  
+*While others just dream! ✨*
+
 
 ### I do believe in:
-"Not all readers are leader 📚
-But all leaders are reader."❤️👑
+"Reading does not guarantee leadership, 📚<br>
+But every great leader is a lifelong reader." 👑❤️
 </b>
 
   ### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
