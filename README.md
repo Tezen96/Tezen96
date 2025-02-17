@@ -54,5 +54,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/V25gdutt6iuWc/giphy.gif" alt="drawing" width="250"/>
+  <br>
+  <br>
   <p><i>"The only way to do great work is to love what you do." – Steve Jobs</i></p>
 </div>
